@@ -1,0 +1,9 @@
+{
+  "name": "wc-todoapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "components": "^0.1.0"
+  }
+}
